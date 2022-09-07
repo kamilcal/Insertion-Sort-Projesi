@@ -26,7 +26,7 @@ __[2,6,16,18,22,27]__
 
 ## 2. Big-O gösterimini yazınız.
 
-O(n2)
+O(n^2)
 
 ## 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
